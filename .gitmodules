@@ -1,0 +1,7 @@
+[submodule "packages/webapp"]
+	path = packages/webapp
+	url = https://github.com/0xreklaw/sbs-hackathon-webapp.git
+
+[submodule "packages/contracts"]
+	path = packages/contracts
+	url = https://github.com/0xreklaw/sbs-hackathon-contracts.git
