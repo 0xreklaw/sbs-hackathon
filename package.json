@@ -1,0 +1,14 @@
+{
+	"name": "sbs-hackathon",
+	"private": true,
+	"workspaces": [
+		"packages/*"
+	],
+	"devDependencies": {
+		"lerna": "^6.5.1"
+	},
+	"scripts": {
+		"start": "learna run start",
+		"test": "learna run test"
+	}
+}
